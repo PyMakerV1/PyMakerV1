@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @PyMakerV1
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Python 3
+- 💞️ I’m looking to collaborate on Lego Robots
+- 📫 How to reach me emailpython2262gmail.com
+- ⚡ Fun fact; I am not a robot
